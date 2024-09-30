@@ -1,2 +1,3 @@
 # Programming-Fundamental
-For my Profund projects.
+
+Each file in this folder are my projects that I made in this subject.
