@@ -1,3 +1,17 @@
+/* วาดรูป diamond
+
+input     =     4
+output    =
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+
+*/
+
 #include <stdio.h>
 
 int main() {
